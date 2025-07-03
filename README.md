@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=natural-mess&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=tokyonight&layout=compact" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natural-mess&theme=tokyonight&custom_title=Top%20Languages&hide_border=false&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NguyenAn2506&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=tokyonight&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenAn2506&theme=tokyonight&custom_title=Top%20Languages&hide_border=false&layout=compact" />
 </p>
 
 <!-- GitHub Activity Graph -->
-[![Natural Mess's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=natural-mess&theme=tokyo-night)](https://github.com/natural-mess/github-readme-activity-graph)
+[![NguyenAn2506's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NguyenAn2506&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
